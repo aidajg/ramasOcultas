@@ -3,4 +3,12 @@ que mola mucho
 a que si?
 
 Me has escuchado?
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 si, te he escuchado
+=======
+Pues si, la verdad es que si
+>>>>>>> Stashed changes
+=======
+Pues si, la verdad es que si
+>>>>>>> Stashed changes
